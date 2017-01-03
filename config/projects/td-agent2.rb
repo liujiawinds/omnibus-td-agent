@@ -25,7 +25,7 @@ override :postgresql, :version => '9.3.5'
 dependency "td-agent"
 dependency "td-agent-files"
 dependency "td"
-dependency "td-agent-ui"
+#dependency "td-agent-ui"
 dependency "td-agent-cleanup"
 
 # version manifest file
